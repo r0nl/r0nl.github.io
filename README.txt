@@ -1,13 +1,14 @@
-This is Rohan, and this is my portfolio website.
+This is Rohan, and this is my Portfolio Website.<br>
 Thanks for visiting! :)
 
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free for personal and commercial use under the [CCA 3.0 license](URL "html5up.net/license")
 
 Credits:
+	
 	Template:
-		@ajlkn (html5up.net/forty | aj@lkn.io )
-
-
+		Forty (www.html5up.net/forty)
+		@ajlkn (ajlkn.io)
+		
 	Demo Images:
 		Unsplash (unsplash.com)
 
